@@ -1,0 +1,89 @@
+*{
+	color: white;
+}
+
+body{
+	background: linear-gradient(to bottom, #407339, #7e3b20);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 2000px;
+}
+
+
+#idioma{
+	font-size: 11px;
+	font-weight: bold;
+	margin-top: 3%;
+
+}
+
+#instagram{
+	font-family: 'Mogra', cursive;
+	margin-top: 18%;
+	font-size: 30px;
+	
+}
+
+#usuario{
+	margin-top: 5%;
+	background-color:#dbdbdb;
+	border: 0;
+	padding-left: 30%;
+	padding-top: 5%;
+}
+
+#contraseña{
+	margin-top: 4%;
+	background-color:#dbdbdb;
+	border: 0;
+	padding-left: 30%;
+	padding-top: 5%;
+}
+
+#iniciar{
+	margin-top: 2%;
+	text-align: center;
+
+}
+
+.btn-default{
+	margin-top: 4%;
+	background-color: transparent;
+	width: 100px;
+	color: white;
+	font-weight: bold;
+	padding: 2%;
+}
+
+p{
+	margin-top: 6%;
+}
+
+i{
+	position: relative;
+	left: 45px;
+	top: 20px;
+}
+
+span{
+	top: 20px;
+	font-weight: bold;
+	text-align: center;
+	position: relative;
+	left:17%;
+}
+
+hr{
+	position: relative;
+	top: 50px;
+}
+
+h5{
+	margin-top: 15%;
+	text-align: center;
+}
+
+
+
+
+
