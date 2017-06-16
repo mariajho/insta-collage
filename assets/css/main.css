@@ -2,13 +2,14 @@
 
 *{
 	color: white;
+
 }
 
 body{
 	background: linear-gradient(to bottom, #407339, #7e3b20);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 85vh;
+	height: 80vh;
 }
 
 
@@ -53,7 +54,7 @@ body{
 .btn-default{
 	margin-top: 4%;
 	background-color: transparent;
-	width: 100px;
+	width: 40%;
 	color: white;
 	font-weight: bold;
 	padding: 2%;
@@ -61,6 +62,7 @@ body{
 
 p{
 	margin-top: 6%;
+	text-align: center;
 }
 
 
@@ -68,29 +70,28 @@ p{
 
 i{
 	position: relative;
-	left: 45px;
-	top: 20px;
+	left: 84px;
+	top: 23px;
 }
 
 span{
-	top: 20px;
+	top: 22px;
 	font-weight: bold;
 	text-align: center;
 	position: relative;
-	left:17%;
+	left:25%;
 }
 
 hr{
 	position: relative;
-	top: 50px;
+	top: 85px;
 }
 
 h5{
-	margin-top: 15%;
+	margin-top: 22%;
 	text-align: center;
 }
 
 
-
-
+/*collage*/
 
