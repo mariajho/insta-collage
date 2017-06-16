@@ -2,6 +2,7 @@
 
 *{
 	color: white;
+	width: 100%;
 
 }
 
@@ -9,7 +10,7 @@ body{
 	background: linear-gradient(to bottom, #407339, #7e3b20);
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 80vh;
+	height: 600px;
 }
 
 
@@ -22,7 +23,7 @@ body{
 
 #instagram{
 	font-family: 'Mogra', cursive;
-	margin-top: 18%;
+	margin-top: 20%;
 	font-size: 30px;
 	
 }
@@ -33,7 +34,7 @@ body{
 	margin-top: 5%;
 	background-color:#dbdbdb;
 	border: 0;
-	padding-left: 30%;
+	padding-left: 5%;
 	padding-top: 5%;
 }
 
@@ -70,28 +71,27 @@ p{
 
 i{
 	position: relative;
-	left: 84px;
+	left: 1%;
 	top: 23px;
 }
 
 span{
-	top: 22px;
+	top: 60px;
 	font-weight: bold;
 	text-align: center;
 	position: relative;
-	left:25%;
+	left:1%;
 }
 
 hr{
 	position: relative;
-	top: 85px;
+	top: 110px;
 }
 
 h5{
-	margin-top: 22%;
+	margin-top: 30%;
 	text-align: center;
 }
 
 
-/*collage*/
 
